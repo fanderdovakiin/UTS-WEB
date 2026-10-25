@@ -1,6 +1,6 @@
 # RuangStok — Sistem Manajemen Inventori & Penjualan
 
-RuangStok adalah aplikasi web untuk tugas UTS Pemrograman Web 2. Aplikasi ini mengelola produk, kategori, pemasok, pembelian, penjualan, dan stok menggunakan **Laravel 12, Blade, dan MySQL**.
+RuangStok adalah aplikasi web untuk tugas UTS Pemrograman Web . Aplikasi ini mengelola produk, kategori, pemasok, pembelian, penjualan, dan stok menggunakan **Laravel 12, Blade, dan MySQL**.
 
 ## Fitur Utama
 
