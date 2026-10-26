@@ -105,3 +105,7 @@ Pada hasil pengujian terakhir yang tercatat, terdapat **66 test dan 278 assertio
 
 - [ERD dan relasi database](docs/erd.md)
 - [Skenario pengujian](docs/test-cases.md)
+
+## Screenshot Aplikasi
+
+Dokumentasi visual aplikasi tersedia di folder [`screenshot/`](screenshot/).
